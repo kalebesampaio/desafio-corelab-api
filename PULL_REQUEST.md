@@ -1,6 +1,6 @@
 ## Desafio Corelab:
 
-### Api
+
 [API](https://github.com/kalebesampaio/desafio-corelab-api)
 ---
 #### Criação da api:
@@ -15,7 +15,7 @@
 - Criando o README.
 
 ---
-### Web
+
 [WEB](https://github.com/kalebesampaio/desafio-corelab-web)
 ---
 #### Criação da aplicação web:
