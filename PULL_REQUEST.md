@@ -1,6 +1,7 @@
 ## Desafio Corelab:
 
 ### Api
+[API](https://github.com/kalebesampaio/desafio-corelab-api)
 ---
 #### Criação da api:
 - Inicializando a aplicação e instalando as dependências (express, zod, typescript, typeorm, jest, helmet).
@@ -15,7 +16,8 @@
 
 ---
 ### Web
-
+[WEB](https://github.com/kalebesampaio/desafio-corelab-web)
+---
 #### Criação da aplicação web:
 - Inicializando a aplicação ReactJs com Vite.
 - Criando a estrutura de pastas da aplicação (components, assets, pages, services, styles)
